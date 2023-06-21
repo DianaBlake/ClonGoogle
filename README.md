@@ -14,7 +14,7 @@ HTML5 trabaja de la mano con CSS3 para crear sitios web que usamos todos los dí
 En este proyecto, con los conocimientos de HTML y CSS realicé la clonación de la interfaz de Google. 
 
 ## 2. Descripción 
-en este proyecto me enfoqué en construir la clonación de la interfaz de Google. 
+En este proyecto me enfoqué en construir la clonación de la interfaz de Google. 
 Contiene las siguientes secciones:
 * Header: Sección que involucra la foto de perfil, íconos y el menú con hipervínculos.
 * Main: Sección del contenedor para los elementos centrales de la página: logo, barra de búsquedad, botones, íconos, etc.
